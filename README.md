@@ -1,4 +1,4 @@
 # Models-and-Simulations
 Engine modeling code and files for CFD, FEA, and other simulations. Ansys workbench files are .wbpj
 
-The 2D-Steady State folder has the whole Ansys workbook for that sim. Inside there is a Results folder with images, annotations, and excel files of the results that can be opened without Ansys products. 
+The 2D-Steady State Results folder has results from a 4000-iteration, axisymmetric, steady-state simulation of the engine that was done in Fluent. The results are in pictures, annotations, and processed values in Excel files, so no Ansys products are required to open them. The whole simulation folder is too big for here so it's uploaded as a zip on the google drive.
